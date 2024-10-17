@@ -1,3 +1,5 @@
+# Download spotify songs dataset from https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset and name it spotify_millsongdata.csv
+
 import pickle
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
